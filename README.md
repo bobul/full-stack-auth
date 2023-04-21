@@ -5,7 +5,7 @@ Application was build while tackling university JavaScript course
 
 The history of commits was lost because this repository is imported from GitLab
 
-# Getting Started with my server
+# Server Side. Getting Started with my server.
 
 ## Technologies was used:
 - Node.js
@@ -13,9 +13,10 @@ The history of commits was lost because this repository is imported from GitLab
 - MongoDB
 - Mongoose
 - Cookies
-- Environment variable
+- .env
 - Nodemon
-- Cors
+- CORS
+- REST
 - CRUD
 - JWT
 - MVC
@@ -34,7 +35,7 @@ You can make requests on the following address [http://localhost:5000](http://lo
 The server will reload if you make edits.\
 You will also see any lint errors in the console.
 
-# Getting Started with Create React App
+# Client Side. Getting Started with my view.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
